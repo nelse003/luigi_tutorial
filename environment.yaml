@@ -1,6 +1,0 @@
-name: luigi_tutorial
-channels:
-  - defaults
-  - conda-forge
-prefix: /home/enelson/.conda/envs/luigi_tutorial
-
